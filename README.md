@@ -50,7 +50,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ## บันทึกผลการทดลอง
    จากการทดลองใบงานที่1 เรื่องการเขียนโปรแกรม Win32 ด้วยภาษา C เมื่อพิมพ์โค้ดในข้างต้นแล้ว กดรันโปรแกรมจะมีหน้าต่าง lesson 1 ขึ้นมาแสดงคำว่า Hello World! This is my first win32 program! พร้อมกับปุ่ม OK ดังภาพ
    
-![]()
+![](https://github.com/NAPHARAT/LAB-01/blob/master/imgs/Capture1.PNG)
 
 ## คำถาม 
 1. นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
@@ -59,7 +59,10 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
-				
+![]()
+![]()
+![]()
+![]()
 
 
 ##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
