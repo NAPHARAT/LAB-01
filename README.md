@@ -59,10 +59,10 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 ```c 
  	MessageBox(NULL, "Hello World! This is my first win32 program!", "Lesson1", MB_OK);
 ```
-![]()
-![]()
-![]()
-![]()
+![](https://github.com/NAPHARAT/LAB-01/blob/master/imgs/Capture2.1.PNG)
+![](https://github.com/NAPHARAT/LAB-01/blob/master/imgs/Capture2.2.PNG)
+![](https://github.com/NAPHARAT/LAB-01/blob/master/imgs/Capture2.3.PNG)
+![](https://github.com/NAPHARAT/LAB-01/blob/master/imgs/Capture2.4.PNG)
 
 
 ##[อ้างอิง](https://github.com/Desktop-Programming-Lab-2559/LAB-01/wiki/References)
