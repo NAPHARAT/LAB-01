@@ -48,7 +48,7 @@ WinMain(HINSTANCE hInst, HINSTANCE hPrev, LPSTR  lpCmdLine, int nCmdshow)
 5 กดปุ่ม Ctrl+F5 เพื่อดูผลการทำงานของโปรแกรม
 
 ## บันทึกผลการทดลอง
-   จากการทดลองใบงานที่1 เรื่องการเขียนโปรแกรม Win32 ด้วยภาษา C เมื่อพิมพ์โค้ดในข้างต้นแล้ว กดรันโปรแกรมจะมีหน้าต่าง lesson 1 ขึ้นมาแสดงคำว่า Hello World! This is my first win32 program!พร้อมกับปุ่ม OK ดังภาพ
+   จากการทดลองใบงานที่1 เรื่องการเขียนโปรแกรม Win32 ด้วยภาษา C เมื่อพิมพ์โค้ดในข้างต้นแล้ว กดรันโปรแกรมจะมีหน้าต่าง lesson 1 ขึ้นมาแสดงคำว่า Hello World! This is my first win32 program! พร้อมกับปุ่ม OK ดังภาพ
    
 ![]()
 
